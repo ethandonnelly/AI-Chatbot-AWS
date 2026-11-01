@@ -1,0 +1,23 @@
+
+# Python virtual environment
+.venv/
+venv/
+
+# Python temporary files
+__pycache__/
+*.pyc
+
+# PyCharm settings
+.idea/
+
+# AWS deployment package
+deployment.zip
+
+# Secrets and environment configuration
+.env
+.env.*
+*.pem
+.aws/
+secrets.json
+git config --global user.name "ethandonnelly"
+git config --global user.email "ethandonnelly1491@gmail.com"
